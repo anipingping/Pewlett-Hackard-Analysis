@@ -51,3 +51,23 @@ AND (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY emp_no ASC;
 
 SELECT * FROM mentorship_eligibility
+
+-- ADDITIONAL QUERY
+SELECT DISTINCT ON (emp_no) e.emp_no, 
+e.first_name,
+e.last_name,
+e.birth_date,
+dept_emp.from_date,
+dept_emp.to_date,
+ti.title
+INTO mentorship_eligibility_1960s
+from employees as e 
+INNER JOIN dept_emp
+ON (e.emp_no = dept_emp.emp_no)
+INNER JOIN titles as ti
+ON (e.emp_no = ti.emp_no)
+WHERE dept_emp.to_date = ('9999-01-01')
+AND (e.birth_date BETWEEN '1960-01-01' AND '1970-12-31')
+ORDER BY emp_no ASC;
+
+SELECT * FROM membership_eligibility_1960s;
