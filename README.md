@@ -4,6 +4,7 @@
 1. ### Employees Retiring by Title
 
 The table below indicates that almost 30k Senior Engineers and an additional 25k senior staff members are nearing retirement age. There will be attrition at the engineer, staff, technique leader and assistang engineer levels as well. The loss of more than 50,000 senior professionals represents a huge loss of insitutional and technical knowledge that will not quickly be replaced. The financial impact of this many retirement packages may also be significant and the company should take steps to ensure it can absorb whatever impact that may be.
+
 ![retiring_titles](https://user-images.githubusercontent.com/106618404/183327930-94e02b44-7a2c-4103-b0c0-0ec46bd053b4.PNG)
 
 2. ### # Employees Eligible for Mentorship Program by Title
