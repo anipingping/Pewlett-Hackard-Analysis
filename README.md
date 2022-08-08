@@ -17,3 +17,10 @@ This report indicates that there are about 1,500 PH employees born during the ye
 
 4. ### Incentives for Mentorship Participation & Financial Impacts Caused by the Loss of 55,000+ Employees
 PH leadership should consider expanding this analysis to include financial information including salary increases and/or performance bonuses for employees who choose to enroll in the Mentorship Program. PH leadership should also make an effort to link the performance of the 55,000+ senior engineers and senior staff to the profitability of the company. What financial impacts will their mass departure have on PH? It's easy to speculate that the impact could be severe, but a more detailed and thorough analysis could identify specific impacts. 
+
+## Summary
+This analysis has revealed that over 55,000 roles will need to be filled as the "silver tsunami" begins to strike PH. Currently, as also revealed in this analysis, there are not enough proteges eligible for the mentorship program. The company should expand the eligibility requirements beyond the year 1965, perhaps to include the entire decade of the 1960s. I ran an additional query that tried to capture the number of employees with birthdate anyhwere in the decade of the 1960s and uncovered numbers that are probably more appropriate for PH needs (See table below):
+
+![Membership_Eligibility_1960s](https://user-images.githubusercontent.com/106618404/183333194-927dfa21-ecc8-4b1b-a7df-bd899e63889d.PNG)
+
+The numbers of employees elgibile for mentorship is far more appropriate when not limited to just those born in 1965. 
