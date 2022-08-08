@@ -1,4 +1,4 @@
-# "The Silver Tsunami" - an overview of the forthcoming large cohort of retirees from Pewlett-Hackard
+# "The Silver Tsunami" - an overview of the forthcoming wave of retirees from Pewlett-Hackard
 ## Overview - this report summarizes and describes the number and title of employees who will soon be retiring en masse from PH. The company needs to position itself appropriately in order to absorb the operational and financial impacts of this shift.
 ## Results
 1. ### Employees Retiring by Title
@@ -12,8 +12,8 @@ The second table (shown below) indicates that there are approximately 1,500 PH e
 ![Mentorship_Eligibility](https://user-images.githubusercontent.com/106618404/183328896-d11510bb-5267-48eb-a3ef-5e3bf1d9a4ea.PNG)
 
 
-3. ### Consider Increasing the Number of Employees Elgibile for Mentorship
+3. ### More than enough mentors, not enough proteges
 This report indicates that there are about 1,500 PH employees born during the year 1965. That is only about 3 percent of the number of employees who will soon retire from PH. At the Senior Engineer level, the number of employees eligible for mentorship is LESS than 1 percent. PH leadership should seriously consider expanding the eligibility pool to include employees born AFTER the year 1965. 
 
 4. ### Incentives for Mentorship Participation & Financial Impacts Caused by the Loss of 55,000+ Employees
-PH leadership should consider expanding this analysis to include financial information including salares/performance bonuses for employees who choose to enroll in the Mentorship Program. PH leadership should also make an effort to link the performance of the 55,000+ senior engineers and senior staff to the profitability of the company. What financial impacts will their mass departure have on PH? It's easy to speculate that the impact could be severe, but a more detailed and thorough analysis could identify specific impacts. 
+PH leadership should consider expanding this analysis to include financial information including salary increases and/or performance bonuses for employees who choose to enroll in the Mentorship Program. PH leadership should also make an effort to link the performance of the 55,000+ senior engineers and senior staff to the profitability of the company. What financial impacts will their mass departure have on PH? It's easy to speculate that the impact could be severe, but a more detailed and thorough analysis could identify specific impacts. 
